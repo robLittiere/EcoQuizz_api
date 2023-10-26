@@ -29,3 +29,11 @@ node src/app.js
 The API should be running on localhost:3000
 
 You're good to go ! Happy coding =^-^=
+
+## To test te API
+
+Try the following exemple route :
+
+```
+http://localhost:3000/api/quizz/random?theme=Biodiversite
+```
