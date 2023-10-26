@@ -1,7 +1,10 @@
 const express = require("express");
+const cors = require("cors");
+const quizzRoutes = require("./quizz/routes");
 const app = express();
 
-app.use("/api/quizz", require("./quizz/routes"));
+app.use(cors());
+app.use("/api/quizz", quizzRoutes);
 
 // Define a root route for testing.
 app.get("/", (req, res) => {
