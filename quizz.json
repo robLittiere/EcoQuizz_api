@@ -1,0 +1,439 @@
+{
+    "themes": [
+        {
+            "name": "Energie Solaire",
+            "quizzs": [
+                {
+                    "title": "Quizz Aléatoire sur l'Énergie Solaire",
+                    "questions": [
+                        {
+                            "question": "Quel est le processus par lequel l'énergie solaire est convertie en électricité ?",
+                            "good_answer": "La conversion photovoltaïque",
+                            "wrong_answers": [
+                                "La photosynthèse",
+                                "La combustion solaire"
+                            ]
+                        },
+                        {
+                            "question": "Quel élément est principalement utilisé dans les panneaux solaires pour capter la lumière du soleil ?",
+                            "good_answer": "Le silicium",
+                            "wrong_answers": [
+                                "L'hydrogène",
+                                "Le carbone"
+                            ]
+                        },
+                        {
+                            "question": "Quel est l'appareil qui permet de suivre la trajectoire du soleil pour maximiser la capture d'énergie solaire ?",
+                            "good_answer": "Le suiveur solaire",
+                            "wrong_answers": [
+                                "Le réflecteur solaire",
+                                "L'accumulateur solaire"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est l'unité de mesure de la puissance des panneaux solaires ?",
+                            "good_answer": "Watt-crête (Wc)",
+                            "wrong_answers": [
+                                "Lumen (lm)",
+                                "Kilowatt-heure (kWh)"
+                            ]
+                        },
+                        {
+                            "question": "Quel pays est le plus grand producteur d'énergie solaire au monde ?",
+                            "good_answer": "La Chine",
+                            "wrong_answers": [
+                                "Les États-Unis",
+                                "L'Inde"
+                            ]
+                        },
+                        {
+                            "question": "Quel avantage majeur de l'énergie solaire en fait une source d'énergie renouvelable attrayante ?",
+                            "good_answer": "Elle ne produit pas de pollution atmosphérique",
+                            "wrong_answers": [
+                                "Elle est bon marché",
+                                "Elle est facile à stocker"
+                            ]
+                        },
+                        {
+                            "question": "Quel dispositif permet de stocker l'énergie solaire pour une utilisation ultérieure ?",
+                            "good_answer": "Les batteries solaires",
+                            "wrong_answers": [
+                                "Les panneaux solaires",
+                                "Les onduleurs solaires"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est l'efficacité typique des panneaux solaires commerciaux ?",
+                            "good_answer": "Entre 15% et 20%",
+                            "wrong_answers": [
+                                "Plus de 50%",
+                                "Moins de 5%"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 366
+                },
+                {
+                    "title": "Le Quizz Solaire Incroyable",
+                    "questions": [
+                        {
+                            "question": "Quelle est la source d'énergie principale du solaire photovoltaïque ?",
+                            "good_answer": "Lumière du soleil",
+                            "wrong_answers": [
+                                "Vent",
+                                "Pétrole"
+                            ]
+                        },
+                        {
+                            "question": "Quel composant clé est utilisé pour convertir la lumière en électricité dans les panneaux solaires ?",
+                            "good_answer": "Cellules photovoltaïques",
+                            "wrong_answers": [
+                                "Batteries",
+                                "Aimants"
+                            ]
+                        },
+                        {
+                            "question": "Quel pays est le plus grand producteur d'énergie solaire au monde ?",
+                            "good_answer": "Chine",
+                            "wrong_answers": [
+                                "États-Unis",
+                                "Inde"
+                            ]
+                        },
+                        {
+                            "question": "Comment est stockée l'énergie solaire pour une utilisation ultérieure ?",
+                            "good_answer": "Batteries",
+                            "wrong_answers": [
+                                "Réservoirs d'eau",
+                                "Sacs de sable"
+                            ]
+                        },
+                        {
+                            "question": "Quel est l'angle optimal pour l'installation de panneaux solaires afin de maximiser l'exposition au soleil ?",
+                            "good_answer": "Entre 30 et 45 degrés",
+                            "wrong_answers": [
+                                "90 degrés",
+                                "0 degrés"
+                            ]
+                        },
+                        {
+                            "question": "Quel type de rayonnement solaire est converti en énergie électrique par les panneaux solaires ?",
+                            "good_answer": "Rayonnement solaire photovoltaïque",
+                            "wrong_answers": [
+                                "Rayonnement infrarouge",
+                                "Rayonnement ultraviolet"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la durée de vie typique des panneaux solaires ?",
+                            "good_answer": "Environ 25 ans",
+                            "wrong_answers": [
+                                "5 ans",
+                                "50 ans"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la principale source d'énergie utilisée pour chauffer l'eau à l'aide de l'énergie solaire ?",
+                            "good_answer": "Énergie solaire thermique",
+                            "wrong_answers": [
+                                "Gaz naturel",
+                                "Électricité"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 168
+                }
+            ]
+        },
+        {
+            "name": "Biodiversite",
+            "quizzs": [
+                {
+                    "title": "Le Quizz de la Biodiversité Étonnante",
+                    "questions": [
+                        {
+                            "question": "Combien d'espèces animales et végétales sont estimées vivre dans la forêt amazonienne ?",
+                            "good_answer": "Des millions",
+                            "wrong_answers": [
+                                "Des milliers",
+                                "Des centaines"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la plus grande menace pour la biodiversité marine ?",
+                            "good_answer": "La pollution plastique",
+                            "wrong_answers": [
+                                "La surpêche",
+                                "Le changement climatique"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le plus grand animal terrestre de la planète ?",
+                            "good_answer": "L'éléphant d'Afrique",
+                            "wrong_answers": [
+                                "Le rhinocéros",
+                                "Le lion"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la principale cause de la perte de biodiversité dans le monde ?",
+                            "good_answer": "La destruction de l'habitat",
+                            "wrong_answers": [
+                                "La chasse excessive",
+                                "Les espèces envahissantes"
+                            ]
+                        },
+                        {
+                            "question": "Quel oiseau est capable de voler à des altitudes extrêmement élevées et est connu pour ses migrations spectaculaires ?",
+                            "good_answer": "L'albatros",
+                            "wrong_answers": [
+                                "Le colibri",
+                                "Le moineau"
+                            ]
+                        },
+                        {
+                            "question": "Quelle espèce est souvent considérée comme un symbole de la lutte pour la préservation de la biodiversité ?",
+                            "good_answer": "Le panda géant",
+                            "wrong_answers": [
+                                "Le tigre",
+                                "Le dauphin"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la plus grande réserve naturelle du monde, située en Antarctique ?",
+                            "good_answer": "La réserve naturelle de l'Antarctique",
+                            "wrong_answers": [
+                                "Le parc national de Yellowstone",
+                                "Le parc national des Galápagos"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le processus par lequel les espèces évoluent pour s'adapter à leur environnement ?",
+                            "good_answer": "La sélection naturelle",
+                            "wrong_answers": [
+                                "La mutation génétique",
+                                "La reproduction asexuée"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 173
+                },
+                {
+                    "title": "Quizz sur la Biodiversité",
+                    "questions": [
+                        {
+                            "question": "Combien d'espèces animales sont répertoriées dans le monde ?",
+                            "good_answer": "Environ 8,7 millions",
+                            "wrong_answers": [
+                                "Environ 1 million",
+                                "Environ 15 millions"
+                            ]
+                        },
+                        {
+                            "question": "Quel pourcentage de la biodiversité marine est constitué de poissons ?",
+                            "good_answer": "Environ 33%",
+                            "wrong_answers": [
+                                "Environ 10%",
+                                "Environ 50%"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la plus grande menace pour la biodiversité actuellement ?",
+                            "good_answer": "La perte d'habitat",
+                            "wrong_answers": [
+                                "La chasse excessive",
+                                "La pollution de l'air"
+                            ]
+                        },
+                        {
+                            "question": "Quel est l'objectif principal de la Convention sur la diversité biologique (CDB) ?",
+                            "good_answer": "La conservation de la diversité biologique",
+                            "wrong_answers": [
+                                "La promotion de la biotechnologie",
+                                "La gestion des déchets"
+                            ]
+                        },
+                        {
+                            "question": "Quel groupe d'animaux est le plus diversifié en termes d'espèces connues ?",
+                            "good_answer": "Les insectes",
+                            "wrong_answers": [
+                                "Les mammifères",
+                                "Les reptiles"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la plus grande zone de biodiversité terrestre au monde ?",
+                            "good_answer": "La forêt amazonienne",
+                            "wrong_answers": [
+                                "Le désert du Sahara",
+                                "La toundra arctique"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le principal mécanisme de l'évolution de la biodiversité ?",
+                            "good_answer": "La sélection naturelle",
+                            "wrong_answers": [
+                                "La migration des espèces",
+                                "Les mutations aléatoires"
+                            ]
+                        },
+                        {
+                            "question": "Quel pays abrite la plus grande diversité d'espèces d'oiseaux ?",
+                            "good_answer": "La Colombie",
+                            "wrong_answers": [
+                                "Les États-Unis",
+                                "L'Australie"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 172
+                }
+            ]
+        },
+        {
+            "name": "Changement climatique",
+            "quizzs": [
+                {
+                    "title": "Quizz sur le Changement Climatique",
+                    "questions": [
+                        {
+                            "question": "Quelle est la principale cause du changement climatique actuel ?",
+                            "good_answer": "Les émissions de gaz à effet de serre",
+                            "wrong_answers": [
+                                "L'activité volcanique",
+                                "Les éruptions solaires"
+                            ]
+                        },
+                        {
+                            "question": "Quel gaz à effet de serre est le plus préoccupant pour le climat ?",
+                            "good_answer": "Le dioxyde de carbone (CO2)",
+                            "wrong_answers": [
+                                "Le méthane (CH4)",
+                                "Le protoxyde d'azote (N2O)"
+                            ]
+                        },
+                        {
+                            "question": "Quel accord international vise à lutter contre le changement climatique en réduisant les émissions de gaz à effet de serre ?",
+                            "good_answer": "L'Accord de Paris",
+                            "wrong_answers": [
+                                "Le Traité de Kyoto",
+                                "Le Protocole de Montréal"
+                            ]
+                        },
+                        {
+                            "question": "Quel phénomène climatique extrême est amplifié par le changement climatique ?",
+                            "good_answer": "Les vagues de chaleur",
+                            "wrong_answers": [
+                                "Les blizzards",
+                                "Les tornades"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la principale conséquence du réchauffement climatique sur les océans ?",
+                            "good_answer": "L'acidification des océans",
+                            "wrong_answers": [
+                                "L'augmentation du niveau de la mer",
+                                "La diminution des tempêtes"
+                            ]
+                        },
+                        {
+                            "question": "Quelle région du monde est la plus vulnérable au changement climatique en raison de sa dépendance à l'agriculture ?",
+                            "good_answer": "L'Afrique subsaharienne",
+                            "wrong_answers": [
+                                "L'Europe occidentale",
+                                "L'Amérique du Nord"
+                            ]
+                        },
+                        {
+                            "question": "Quel est l'effet du changement climatique sur les glaciers et les calottes glaciaires ?",
+                            "good_answer": "La fonte rapide",
+                            "wrong_answers": [
+                                "L'augmentation de la glace",
+                                "La stabilisation"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le rôle des forêts dans la lutte contre le changement climatique ?",
+                            "good_answer": "Elles absorbent le dioxyde de carbone (CO2)",
+                            "wrong_answers": [
+                                "Elles émettent du méthane (CH4)",
+                                "Elles n'ont aucun effet sur le climat"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 171
+                },
+                {
+                    "title": "Quizz sur le Changement Climatique",
+                    "questions": [
+                        {
+                            "question": "Quelle est la principale cause du changement climatique?",
+                            "good_answer": "Les émissions de gaz à effet de serre",
+                            "wrong_answers": [
+                                "Les éruptions volcaniques",
+                                "Les rayons cosmiques"
+                            ]
+                        },
+                        {
+                            "question": "Quel gaz est le plus responsable de l'effet de serre?",
+                            "good_answer": "Le dioxyde de carbone (CO2)",
+                            "wrong_answers": [
+                                "L'oxygène (O2)",
+                                "L'azote (N2)"
+                            ]
+                        },
+                        {
+                            "question": "Qu'est-ce que l'effet de serre?",
+                            "good_answer": "Le phénomène par lequel certaines substances emprisonnent la chaleur dans l'atmosphère terrestre.",
+                            "wrong_answers": [
+                                "Un vent fort",
+                                "Un courant océanique"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la conséquence du réchauffement climatique sur les glaciers?",
+                            "good_answer": "La fonte des glaciers",
+                            "wrong_answers": [
+                                "La croissance des glaciers",
+                                "La couleur des glaciers devient rouge"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le principal secteur émetteur de gaz à effet de serre?",
+                            "good_answer": "Le secteur de l'énergie",
+                            "wrong_answers": [
+                                "L'agriculture",
+                                "Le secteur de la santé"
+                            ]
+                        },
+                        {
+                            "question": "Quel accord international vise à lutter contre le changement climatique?",
+                            "good_answer": "L'Accord de Paris",
+                            "wrong_answers": [
+                                "L'Accord de Rome",
+                                "L'Accord de Londres"
+                            ]
+                        },
+                        {
+                            "question": "Quelle est la conséquence du changement climatique sur les océans?",
+                            "good_answer": "L'acidification des océans",
+                            "wrong_answers": [
+                                "Augmentation de la salinité des océans",
+                                "Diminution du niveau de la mer"
+                            ]
+                        },
+                        {
+                            "question": "Quel est le rôle de la forêt dans la lutte contre le changement climatique?",
+                            "good_answer": "Absorber le dioxyde de carbone de l'atmosphère",
+                            "wrong_answers": [
+                                "Libérer du dioxyde de carbone dans l'atmosphère",
+                                "Détruire la couche d'ozone"
+                            ]
+                        }
+                    ],
+                    "tokens_used": 350
+                }
+            ]
+        }
+    ]
+}
