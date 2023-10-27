@@ -94,7 +94,7 @@ async function getQuizz(req) {
       messages: [
         {
           role: "user",
-          content: `  "You are an assistant that only writes JSON. Do not write normal text. génère un quizz aléatoire sur le thème : ${req.query.theme}, sérieux et difficile, avec une blague dans le titre en rapport avec le thème. Le quizz devrait contenir 7 questions, chacune ayant une question, une bonne réponse et trois réponses incorrectes. génère un JSON bien formaté avec comme modèle le suivant : {'title' : 'nom_marrant', 'questions': [{'question': 'question_body','good_answer': 'good_answer','wrong_answers': ['wrong_answers']}]}";`,
+          content: `  "You are an assistant that only writes JSON. Do not write normal text. génère un quizz aléatoire sur le thème : ${req.query.theme}, sérieux et difficile, avec une blague dans le titre en rapport avec le thème. Le quizz devrait contenir 3 questions, chacune ayant une question, une bonne réponse et trois réponses incorrectes. génère un JSON bien formaté avec comme modèle le suivant : {'title' : 'nom_marrant', 'questions': [{'question': 'question_body','good_answer': 'good_answer','wrong_answers': ['wrong_answers']}]}";`,
         },
       ],
       model: "gpt-3.5-turbo",
